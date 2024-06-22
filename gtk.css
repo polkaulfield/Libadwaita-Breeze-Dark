@@ -2621,6 +2621,16 @@ row.activatable:selected:backdrop {
   border-radius: 0px 0px 0px 0px; }
 
 /*********
+* ListView *
+*********/
+listview {
+  color: @theme_fg_color_breeze;
+  background: @theme_base_color_breeze;
+  border-radius: 0px;
+  border: 1px solid rgb(71,78,80);
+}
+
+/*********
  * Menus *
  *********/
 accelerator {
@@ -3753,6 +3763,14 @@ treeview spinbutton:not(.vertical) {
   border-style: none;
   border-radius: 0; }
 
+/**********
+* Revealer *
+**********/
+revealer {
+  background-color: @theme_bg_color_breeze;
+  &:backdrop {
+  background-color: @unfocused_borders_breeze;
+}
 
 
 /**********
