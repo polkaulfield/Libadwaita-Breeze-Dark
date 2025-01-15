@@ -1,7 +1,7 @@
 # Libadwaita-Breeze-Dark
 A modification of the Breeze Dark GTK4 theme made specifically for Flatpak Libadwaita applications
 
-![preview](https://github.com/MrCompoopter/Libadwaita-Breeze-Dark/blob/main/preview.png)
+![preview](https://github.com/polkaulfield/Libadwaita-Breeze-Dark/blob/main/preview.png)
 
 ## What it is
 - A patched/fixed version of the Breeze GTK4 theme (with the Breeze Dark color scheme pre-applied) to make it look not broken for when it is applied to most Flatpak Libadwaita applications.
